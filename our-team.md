@@ -9,7 +9,7 @@
 
 ## ข้อมูลส่วนตัว
 
-<img src="pf.jpg" width="">
+<img src="./images/profile/pf.jpg" width="">
 
 ชื่อ : พงศ์เพชร เพชรอาวุธ / Pongphet Phetarwut
 
@@ -36,7 +36,7 @@ _ _ _ _ _ _ _ _ _ _ _ _
 x9_qxick](https://www.instagram.com/x9_qxick/)
 
 
-![alt text](image.png)
+![alt text](./images/profile/image.png)
 
 ชื่อ ศุภณัฐ เพชรแท้ (Suppanat Phetthae)
 
@@ -58,7 +58,7 @@ x9_qxick](https://www.instagram.com/x9_qxick/)
 
 ช่องทางการติดต่อ : [IG - bon.usok] (https://www.instagram.com/bon.usok/)
 
-<img src="imi-profile.jpg" width="300">
+<img src="./images/profile/imi-profile.jpg" width="300">
 
 ชื่อ : สุดารัตน์ สวนยิ้ม / Sudarat Suanyim
 
@@ -75,7 +75,7 @@ x9_qxick](https://www.instagram.com/x9_qxick/)
 _ _ _ _ _ _ _ _ _ _ _ _
 ช่องทางการติดต่อ : [IG - ir2p.wf](https://www.instagram.com/ir2p.wf?igsh=MXBmZHlvZnYxcGxpMQ%3D%3D&utm_source=qr)
 
-![Profile](Ball.jpg)
+![Profile](./images/profile/Ball.jpg)
 
 ## ข้อมูลส่วนตัว
 
@@ -103,7 +103,7 @@ _ _ _ _ _ _ _ _ _ _ _ _
 # แนะนำสมาชิกในทีม
 
 ## ข้อมูลส่วนตัว
-![alt text](mook.jpg)
+![alt text](./images/profile/mook.jpg)
 ชื่อ : กนกวรรณ ห้วยหงษ์ทอง (Kanokwan Hoyhongthong)
 ชื่อเล่น : มุก (Mook)
 อายุ : 18 ปี
@@ -124,7 +124,7 @@ _ _ _ _ _ _ _ _ _ _ _ _
 # แนะนำสมาชิกในทีม
 
 ## ข้อมูลส่วนตัว
-<img src="Myface.jpg.jpg" width="300">
+<img src="./images/profile/Myface.jpg.jpg" width="300">
 
 ชื่อ : ภีรพัฒน์ ภัทรพัฒนศิริกุล / Peerapat Pattarapattanasirikul
 

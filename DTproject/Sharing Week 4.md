@@ -71,7 +71,11 @@
 
 # Journey map (optional for this week)
 
+![alt text](../images/week4/JourneyMap.png)
+
 # Initial PoV statement
+
+![alt text](../images/week4/POV.png)
 
 ### User
 แม่บ้านประจำอาคาร/หอพักที่ต้องทำงานหนัก 6-7 วันต่อสัปดาห์
